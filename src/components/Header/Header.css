@@ -1,7 +1,32 @@
 
-.header { 
-  background-color: #ffebf0; 
-  padding: 1rem; 
-  text-align: center; 
-  border-bottom: 2px solid #ffadd6; 
-} 
+.header {
+  background-color: #ffebf0;
+  padding: 1rem;
+  text-align: center;
+  border-bottom: 2px solid #ffadd6;
+}
+
+.nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0.8rem 0 0;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.nav li {
+  margin: 0;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #d46a9a;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color 0.2s ease;
+}
+
+.nav a:hover {
+  color: #ff66a3;
+}
