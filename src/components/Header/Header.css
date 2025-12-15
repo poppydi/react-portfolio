@@ -1,0 +1,7 @@
+/* src/components/Header/Header.css */ 
+.header { 
+  background-color: #ffebf0; 
+  padding: 1rem; 
+  text-align: center; 
+  border-bottom: 2px solid #ffadd6; 
+} 
