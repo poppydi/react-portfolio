@@ -1,4 +1,4 @@
 
 export default function Portfolio() { 
-  return (<section className="portfolio"><h2>My Projects</h2><p>Here are some of my works.</p></section>); 
+  return (<section className="portfolio"><h2>Наши проекты</h2><p>косметология, питомник</p></section>); 
 } 
